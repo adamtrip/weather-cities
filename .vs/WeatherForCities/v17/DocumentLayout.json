@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949E437C-4F55-424F-8473-7DDE0D2BC838}|WeatherForCities.Tests\\WeatherForCities.Tests.csproj|c:\\users\\adam\\source\\repos\\weatherforcities\\weatherforcities.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949E437C-4F55-424F-8473-7DDE0D2BC838}|WeatherForCities.Tests\\WeatherForCities.Tests.csproj|solutionrelative:weatherforcities.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E437C-4F55-424F-8473-7DDE0D2BC838}|WeatherForCities.Tests\\WeatherForCities.Tests.csproj|c:\\users\\adam\\source\\repos\\weatherforcities\\weatherforcities.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949E437C-4F55-424F-8473-7DDE0D2BC838}|WeatherForCities.Tests\\WeatherForCities.Tests.csproj|solutionrelative:weatherforcities.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E36AF39-48B0-4137-8C7E-62D8C10D3AC8}|WeatherForCities\\WeatherForCities.csproj|c:\\users\\adam\\source\\repos\\weatherforcities\\weatherforcities\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E36AF39-48B0-4137-8C7E-62D8C10D3AC8}|WeatherForCities\\WeatherForCities.csproj|solutionrelative:weatherforcities\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E36AF39-48B0-4137-8C7E-62D8C10D3AC8}|WeatherForCities\\WeatherForCities.csproj|c:\\users\\adam\\source\\repos\\weatherforcities\\weatherforcities\\weatherfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E36AF39-48B0-4137-8C7E-62D8C10D3AC8}|WeatherForCities\\WeatherForCities.csproj|solutionrelative:weatherforcities\\weatherfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E36AF39-48B0-4137-8C7E-62D8C10D3AC8}|WeatherForCities\\WeatherForCities.csproj|c:\\users\\adam\\source\\repos\\weatherforcities\\weatherforcities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E36AF39-48B0-4137-8C7E-62D8C10D3AC8}|WeatherForCities\\WeatherForCities.csproj|solutionrelative:weatherforcities\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "WeatherForCities.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "WeatherForCities.Tests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T22:18:29.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities\\host.json",
+              "RelativeDocumentMoniker": "WeatherForCities\\host.json",
+              "ToolTip": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities\\host.json",
+              "RelativeToolTip": "WeatherForCities\\host.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-12-06T20:21:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities\\WeatherFunction.cs",
+              "RelativeDocumentMoniker": "WeatherForCities\\WeatherFunction.cs",
+              "ToolTip": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities\\WeatherFunction.cs",
+              "RelativeToolTip": "WeatherForCities\\WeatherFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T20:18:09.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherForCities\\Program.cs",
+              "ToolTip": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities\\Program.cs",
+              "RelativeToolTip": "WeatherForCities\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T20:15:03.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "WeatherForCities.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Adam\\source\\repos\\WeatherForCities\\WeatherForCities.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "WeatherForCities.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwCEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T20:10:03.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

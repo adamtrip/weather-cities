@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "WeatherAPIBase": "http://api.weatherapi.com/v1",
+    "WeatherAPIKey": "7672704c3aeb4481b98130509230212",
+    "CosmosEndpoint": "https://brunoadao.documents.azure.com:443/",
+    "CosmosKey": "aXFbMD7jCwyO2zflZjiqY5fSWgGSjzgdbZNwndKIi9w9Te4ZsdrasZ2A0rYbcKN70a5Vwz2vcBO6ACDbcffUZA==",
+    "CosmosDatabaseName": "WeatherForCities",
+    "CosmosContainerName": "WeatherForCitiesContainer"
+  }
+}
